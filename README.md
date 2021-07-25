@@ -4,18 +4,18 @@ This is a clap sequence sensitive home automation prototype that switches a lamp
 You can see the project in action [here](https://drive.google.com/file/d/1aQnVMMlvzVrTAkEzOU4e5Kmv4VtDMiW6/view?usp=sharing) and [here](https://drive.google.com/file/d/1mcpacmlS0m4yFFPM0VmUJa7d9wNWRGuU/view?usp=sharing)!
 
 The project's priorities are:
-*Control any mains voltage appliance only by clapping
-*Only register two claps with a specified short delay and some tolerance
-*Adjust for ambient noise to not give false positives
-*Allow added manual control with a button
+* Control any mains voltage appliance only by clapping
+* Only register two claps with a specified short delay and some tolerance
+* Adjust for ambient noise to not give false positives
+* Allow added manual control with a button
 
 The project does not:
-*Differentiate between claps and loud noises with the specific delay
-*Have output states other than ON/OFF
-*Be connected to any web services
+* Differentiate between claps and loud noises with the specific delay
+* Have output states other than ON/OFF
+* Be connected to any web services
 
 This was built just as a proof of concept and is the first completely assembled prototype.
 Further improvements may include:
-*Adding Wi-Fi and Bluetooth capabilities for further non-contact control
-*Multiple relays to control many different appliances with more coded signals
+* Adding Wi-Fi and Bluetooth capabilities for further non-contact control
+* Multiple relays to control many different appliances with more coded signals
 
