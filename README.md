@@ -19,3 +19,5 @@ Further improvements may include:
 * Adding Wi-Fi and Bluetooth capabilities for further non-contact control
 * Multiple relays to control many different appliances with more coded signals
 
+This project is GPL-3.0 Liscenced to Aditya Nair under GogiPuttar
+
